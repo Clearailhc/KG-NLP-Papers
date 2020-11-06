@@ -2,7 +2,7 @@
 Including **Knowledge Graph** and **Netual Language Processing** papers from 20 top conferences:
 |Idx|Conference|Area|CCF|Year|
 |-|-|-|-|-|
-|1|ACL|NLP|A|[2020](https://github.com/Clearailhc/KG-NLP-Papers/blob/main/ACL/ACL_2020.md "ACL 2020"), 2019, 2018|
+|1|ACL|NLP|A|[2020](https://github.com/Clearailhc/KG-NLP-Papers/blob/main/ACL/2020/ACL_2020.md "ACL 2020"), 2019, 2018|
 |2|EMNLP|NLP|B|2020, 2019, 2018|
 |3|COLING|NLP|B|2020, 2018|
 |4|NAACL|NLP|C|2020, 2019, 2018|
