@@ -1,5 +1,5 @@
 # KG-NLP-Papers
-Including **Knowledge Graph** and **Netual Language Processing** papers from 20 top conferences:
+Including **Knowledge Graph** and **Netual Language Processing** (for Knowledge Graph) papers from 20 top conferences:
 |Idx|Conference|Area|CCF|Year|
 |-|-|-|-|-|
 |1|ACL|NLP|A|[2020](https://github.com/Clearailhc/KG-NLP-Papers/blob/main/ACL/2020/ACL_2020.md "ACL 2020"), 2019, 2018|
