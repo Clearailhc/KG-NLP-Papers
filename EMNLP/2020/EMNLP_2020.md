@@ -29,5 +29,5 @@ TBA
 5. Semi-supervised New Event Type Induction and Event Detection
 6. Analogous Process Structure Induction for Sub-event Sequence Prediction
 7. [Event Extraction as Machine Reading Comprehension](https://github.com/Clearailhc/KG-NLP-Papers/blob/main/EMNLP/2020/EE/2.%20Event%20Extraction%20as%20Machine%20Reading%20Comprehension.md)
-8. MAVEN: A Massive General Domain Event Detection Dataset
+8. [MAVEN: A Massive General Domain Event Detection Dataset](https://github.com/Clearailhc/KG-NLP-Papers/blob/main/EMNLP/2020/EE/3.%20MAVEN_A%20Massive%20General%20Domain%20Event%20Detection%20Dataset.md)
 9. A Method for Building a Commonsense Inference Dataset based on Basic Events
