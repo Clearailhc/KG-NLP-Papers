@@ -22,7 +22,7 @@ The 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP 2
 TBA
 # Event Extraction (EE)
 ### Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP)
-1. Event Extraction by Answering (Almost) Natural Questions
+1. [Event Extraction by Answering (Almost) Natural Questions](https://github.com/Clearailhc/KG-NLP-Papers/blob/main/EMNLP/2020/EE/1.%20Event%20Extraction%20by%20Answering%20(Almost)%20Natural%20Questions.md)
 2. Connecting the Dots: Event Graph Schema Induction with Path Language Modeling
 3. Joint Constrained Learning for Event-Event Relation Extraction
 4. Incremental Event Detection via Knowledge Consolidation Networks
