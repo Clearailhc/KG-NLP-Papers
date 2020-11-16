@@ -10,47 +10,24 @@ The 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP 2
 - Event Extraction (EE)
 - Knowledge Graph (KG)
 # Named Entity Recognization (NER)
-### Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics
-1. Named Entity Recognition without Labelled Data: A Weak Supervision Approach
-2. Improving Multimodal Named Entity Recognition via Entity Span Detection with Unified Multimodal Transformer
-3. Code and Named Entity Recognition in StackOverflow
-4. A Unified MRC Framework for Named Entity Recognition
-5. Improving Low-Resource Named Entity Recognition using Joint Sentence and Token Labeling
-6. Pyramid: A Layered Model for Nested Named Entity Recognition
-7. Bipartite Flat-Graph Network for Nested Named Entity Recognition
-8. Instance-Based Learning of Span Representations: A Case Study through Named Entity Recognition
-9. Named Entity Recognition as Dependency Parsing
-10. Temporally-Informed Analysis of Named Entity Recognition
-11. Sources of Transfer in Multilingual Named Entity Recognition
-12. Soft Gazetteers for Low-Resource Named Entity Recognition
-13. Multi-Domain Named Entity Recognition with Genre-Aware and Agnostic Inference
-14. TriggerNER: Learning with Entity Triggers as Explanations for Named Entity Recognition
-
-### Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics: Student Research Workshop
-15. Embeddings of Label Components for Sequence Labeling: A Case Study of Fine-grained Named Entity Recognition
-### Proceedings of The 3rd Workshop on e-Commerce and NLP
-16. Bootstrapping Named Entity Recognition in E-Commerce with Positive Unlabeled Learning
-### Proceedings of the 5th Workshop on Representation Learning for NLP
-17. Zero-Resource Cross-Domain Named Entity Recognition
+### Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP)
+1. ENT-DESC: Entity Description Generation by Exploring Knowledge Graph
+2. Named Entity Recognition for Social Media Texts with Semantic Augmentation
+3. A Knowledge-driven Generative Model for Multi-implication Chinese Medical Procedure Entity Normalization
+4. Knowledge Graph Alignment with Entity-Pair Embedding
+5. Pre-training Entity Relation Encoder with Intra-span and Inter-span Information
+6. Two are Better than One: Joint Entity and Relation Extraction with Table-Sequence Encoders
 
 # Relation Extraction (RE)
 TBA
 # Event Extraction (EE)
-### Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics
-1. [Cross-media Structured Common Space for Multimedia Event Extraction](https://github.com/Clearailhc/KG-NLP-Papers/blob/main/ACL/2020/EE/1.%20Cross-media%20Structured%20Common%20Space%20for%20Multimedia%20Event%20Extraction.md)
-2. [Discourse as a Function of Event: Profiling Discourse Structure in News Articles around the Main Event](https://github.com/Clearailhc/KG-NLP-Papers/blob/main/ACL/2020/EE/2.%20Discourse%20as%20a%20Function%20of%20Event_Profiling%20Discourse%20Structure%20in%20News%20Articles%20around%20the%20Main%20Event.md)
-3. [Improving Event Detection via Open-domain Trigger Knowledge](https://github.com/Clearailhc/KG-NLP-Papers/blob/main/ACL/2020/EE/3.%20Improving%20Event%20Detection%20via%20Open-domain%20Trigger%20Knowledge.md)
-4. [A Two-Step Approach for Implicit Event Argument Detection](https://github.com/Clearailhc/KG-NLP-Papers/blob/main/ACL/2020/EE/4.%20A%20Two-Step%20Approach%20for%20Implicit%20Event%20Argument%20Detection.md)
-5. [Machine Reading of Historical Events](https://github.com/Clearailhc/KG-NLP-Papers/blob/main/ACL/2020/EE/5.%20Machine%20Reading%20of%20Historical%20Events.md)
-6. [Towards Open Domain Event Trigger Identification using Adversarial Domain Adaptation](https://github.com/Clearailhc/KG-NLP-Papers/blob/main/ACL/2020/EE/6.%20Towards%20Open%20Domain%20Event%20Trigger%20Identification%20using%20Adversarial%20Domain%20Adaptation.md)
-7. Document-Level Event Role Filler Extraction using Multi-Granularity Contextualized Encoding
-8. Exploring Interpretability in Event Extraction: Multitask Learning of a Neural Event Classifier and an Explanation Decoder
-### Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics: Tutorial Abstracts
-9. Global Locality in Biomedical Relation and Event Extraction
-### Proceedings of the 1st Workshop on NLP for COVID-19 at ACL 2020
-10. Enabling Low-Resource Transfer Learning across COVID-19 Corpora by Combining Event-Extraction and Co-Training
-### Proceedings of the First Joint Workshop on Narrative Understanding, Storylines, and Events
-11. New Insights into Cross-Document Event Coreference: Systematic Comparison and a Simplified Approach
-12. [Extensively Matching for Few-shot Learning Event Detection](https://github.com/Clearailhc/KG-NLP-Papers/blob/main/ACL/2020/EE/12.%20Extensively%20Matching%20for%20Few-shot%20Learning%20Event%20Detection.md)
-13. Automatic extraction of personal events from dialogue
-
+### Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP)
+1. Event Extraction by Answering (Almost) Natural Questions
+2. Connecting the Dots: Event Graph Schema Induction with Path Language Modeling
+3. Joint Constrained Learning for Event-Event Relation Extraction
+4. Incremental Event Detection via Knowledge Consolidation Networks
+5. Semi-supervised New Event Type Induction and Event Detection
+6. Analogous Process Structure Induction for Sub-event Sequence Prediction
+7. Event Extraction as Machine Reading Comprehension
+8. MAVEN: A Massive General Domain Event Detection Dataset
+9. A Method for Building a Commonsense Inference Dataset based on Basic Events
