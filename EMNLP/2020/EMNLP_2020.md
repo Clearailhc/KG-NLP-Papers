@@ -24,7 +24,7 @@ TBA
 ### Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP)
 1. [Event Extraction by Answering (Almost) Natural Questions](https://github.com/Clearailhc/KG-NLP-Papers/blob/main/EMNLP/2020/EE/1.%20Event%20Extraction%20by%20Answering%20(Almost)%20Natural%20Questions.md)
 2. [Connecting the Dots: Event Graph Schema Induction with Path Language Modeling](https://github.com/Clearailhc/KG-NLP-Papers/blob/main/EMNLP/2020/EE/2.%20Connecting%20the%20Dots_Event%20Graph%20Schema%20Induction%20with%20Path%20Language%20Modeling.md)
-3. Joint Constrained Learning for Event-Event Relation Extraction
+3. [Joint Constrained Learning for Event-Event Relation Extraction](EE/3.%20Joint%20Constrained%20Learning%20for%20Event-Event%20Relation%20Extraction.md)
 4. Incremental Event Detection via Knowledge Consolidation Networks
 5. Semi-supervised New Event Type Induction and Event Detection
 6. Analogous Process Structure Induction for Sub-event Sequence Prediction
