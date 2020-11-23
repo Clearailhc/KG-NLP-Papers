@@ -27,7 +27,7 @@ TBA
 3. [Joint Constrained Learning for Event-Event Relation Extraction](EE/3.%20Joint%20Constrained%20Learning%20for%20Event-Event%20Relation%20Extraction.md)
 4. [Incremental Event Detection via Knowledge Consolidation Networks](https://github.com/Clearailhc/KG-NLP-Papers/blob/main/EMNLP/2020/EE/4.Incremental%20Event%20Detection%20via%20Knowledge%20Consolidation%20Networks.md)
 [5. Semi-supervised New Event Type Induction and Event Detection](https://github.com/Clearailhc/KG-NLP-Papers/blob/main/EMNLP/2020/EE/5.%20Semi-supervised%20New%20Event%20Type%20Induction%20and%20Event%20Detection.md)
-6. Analogous Process Structure Induction for Sub-event Sequence Prediction
+[6. Analogous Process Structure Induction for Sub-event Sequence Prediction](https://github.com/Clearailhc/KG-NLP-Papers/blob/main/EMNLP/2020/EE/6.%20Analogous%20Process%20Structure%20Induction%20for%20Sub-event%20Sequence%20Prediction.md)
 7. [Event Extraction as Machine Reading Comprehension](https://github.com/Clearailhc/KG-NLP-Papers/blob/main/EMNLP/2020/EE/7.%20Event%20Extraction%20as%20Machine%20Reading%20Comprehension.md)
 8. [MAVEN: A Massive General Domain Event Detection Dataset](https://github.com/Clearailhc/KG-NLP-Papers/blob/main/EMNLP/2020/EE/8.%20MAVEN_A%20Massive%20General%20Domain%20Event%20Detection%20Dataset.md)
 9. A Method for Building a Commonsense Inference Dataset based on Basic Events
