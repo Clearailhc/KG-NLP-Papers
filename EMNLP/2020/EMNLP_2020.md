@@ -26,7 +26,7 @@ TBA
 2. [Connecting the Dots: Event Graph Schema Induction with Path Language Modeling](https://github.com/Clearailhc/KG-NLP-Papers/blob/main/EMNLP/2020/EE/2.%20Connecting%20the%20Dots_Event%20Graph%20Schema%20Induction%20with%20Path%20Language%20Modeling.md)
 3. [Joint Constrained Learning for Event-Event Relation Extraction](EE/3.%20Joint%20Constrained%20Learning%20for%20Event-Event%20Relation%20Extraction.md)
 4. [Incremental Event Detection via Knowledge Consolidation Networks](https://github.com/Clearailhc/KG-NLP-Papers/blob/main/EMNLP/2020/EE/4.Incremental%20Event%20Detection%20via%20Knowledge%20Consolidation%20Networks.md)
-5. Semi-supervised New Event Type Induction and Event Detection
+[5. Semi-supervised New Event Type Induction and Event Detection](https://github.com/Clearailhc/KG-NLP-Papers/blob/main/EMNLP/2020/EE/5.%20Semi-supervised%20New%20Event%20Type%20Induction%20and%20Event%20Detection.md)
 6. Analogous Process Structure Induction for Sub-event Sequence Prediction
 7. [Event Extraction as Machine Reading Comprehension](https://github.com/Clearailhc/KG-NLP-Papers/blob/main/EMNLP/2020/EE/7.%20Event%20Extraction%20as%20Machine%20Reading%20Comprehension.md)
 8. [MAVEN: A Massive General Domain Event Detection Dataset](https://github.com/Clearailhc/KG-NLP-Papers/blob/main/EMNLP/2020/EE/8.%20MAVEN_A%20Massive%20General%20Domain%20Event%20Detection%20Dataset.md)
