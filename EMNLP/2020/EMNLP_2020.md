@@ -19,7 +19,22 @@ The 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP 2
 6. Two are Better than One: Joint Entity and Relation Extraction with Table-Sequence Encoders
 
 # Relation Extraction (RE)
-TBA
+### Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP)
+1. Double Graph Based Reasoning for Document-level Relation Extraction
+2. Pre-training Entity Relation Encoder with Intra-span and Inter-span Information
+3. Two are Better than One: Joint Entity and Relation Extraction with Table-Sequence Encoders
+4. Multi-turn Response Selection using Dialogue Dependency Relations
+5. FedED: Federated Learning via Ensemble Distillation for Medical Relation Extraction
+6. Within-Between Lexical Relation Classification
+7. Learning from Context or Names? An Empirical Study on Neural Relation Extraction
+8. SelfORE: Self-supervised Relational Feature Learning for Open Relation Extraction
+9. Denoising Relation Extraction from Document-level Distant Supervision
+10. Let’s Stop Incorrect Comparisons in End-to-end Relation Extraction!
+11. Exposing Shallow Heuristics of Relation Extraction Models with Challenge Data
+12. Global-to-Local Neural Networks for Document-Level Relation Extraction
+13. Recurrent Interaction Network for Jointly Extracting Entities and Classifying Relations
+14. Domain Knowledge Empowered Structured Neural Net for End-to-End Event Temporal Relation Extraction
+15. BERT-enhanced Relational Sentence Ordering Network
 # Event Extraction (EE)
 ### Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP)
 1. [Event Extraction by Answering (Almost) Natural Questions](https://github.com/Clearailhc/KG-NLP-Papers/blob/main/EMNLP/2020/EE/1.%20Event%20Extraction%20by%20Answering%20(Almost)%20Natural%20Questions.md)
