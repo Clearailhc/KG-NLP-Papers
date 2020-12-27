@@ -1,5 +1,5 @@
 # KG-NLP-Papers
-Including **Knowledge Graph** and **Netual Language Processing** (for Knowledge Graph) papers from 20 top conferences:
+Including **Knowledge Graph** and **Netual Language Processing** (especially information extraction) papers from 20 top conferences:
 
 ### Conferences table(since 2018)
 |Idx|Conference|Area|CCF|Year|
