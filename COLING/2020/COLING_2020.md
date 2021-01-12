@@ -11,8 +11,31 @@ The 28th International Conference on Computational Linguistics (COLING) will be 
 - Others
 
 # Named Entity Recognization (NER)
-
+1. Porous Lattice Transformer Encoder for Chinese NER 
+2. An Analysis of Simple Data Augmentation for Named Entity Recognition
+3. Evaluating Pretrained Transformer-based Models on the Task of Fine-Grained Named Entity Recognition
+4. Exploring Cross-sentence Contexts for Named Entity Recognition with BERT
+5. Identifying Motion Entities in Natural Language and A Case Study for Named Entity Recognition
+6. Leveraging HTML in Free Text Web Named Entity Recognition
+7. Named Entity Recognition for Chinese biomedical patents
+8. Neural Language Modeling for Named Entity Recognition
+9. RIVA: A Pre-trained Tweet Multimodal Model Based on Text-image Relation for Multimodal NER
 # Relation Extraction (RE)
+1. Learning to Prune Dependency Trees with Rethinking for Neural Relation Extraction 
+2. Document-level Relation Extraction with Dual-tier Heterogeneous Graph 
+3. TPLinker: Single-stage Joint Extraction of Entities and Relations Through Token Pair Linking 
+4. Dual Supervision Framework for Relation Extraction with Distant
+5. Event-Guided Denoising for Multilingual Relation Learning
+6. Global Context-enhanced Graph Convolutional Networks for Document-level Relation Extraction
+7. Graph Convolution over Multiple Dependency Sub-graphs for Relation Extraction
+8. Graph Enhanced Dual Attention Network for Document-Level Relation Extraction
+9. Improving Long-Tail Relation Extraction with Collaborating Relation-Augmented Attention
+10. Improving Relation Extraction with Relational Paraphrase Sentences
+11. Interactively-Propagative Attention Learning for Implicit Discourse Relation Recognition
+12. Joint Entity and Relation Extraction for Legal Documents with Legal Feature Enhancement
+13. Span-based Joint Entity and Relation Extraction with Attention-based Span-specific and Contextual Semantic Representations
+14. ToHRE: A Top-Down Classification Strategy with Hierarchical Bag Representation for Distantly Supervised Relation Extraction
+15. Towards Accurate and Consistent Evaluation: A Dataset for Distantly-Supervised Relation Extraction
 # Event Extraction (EE)
 ### Proceedings of the 28th International Conference on Computational Linguistics
 1. Hierarchical Chinese Legal event extraction via Pedal Attention Mechanism
