@@ -9,7 +9,7 @@ Including **Knowledge Graph** and **Netual Language Processing** (especially inf
 |3|COLING|NLP|B|[2020](COLING/2020/COLING_2020.md), 2018|
 |4|NAACL|NLP|C|2020, 2019, 2018|
 |5|AAAI|AI|A|[2020](AAAI/2020/AAAI_2020.md), 2019, 2018|
-|6|NeurIPS|AI|A|2020, 2019, 2018|
+|6|NeurIPS|AI|A|[2020](NeurIPS/2020/NeurIPS_2020.md), 2019, 2018|
 |7|IJCAI|AI|A|2020, 2019, 2018|
 |8|ECAI|AI|B|2020, 2019, 2018|
 |9|KDD|DM|A|2020, 2019, 2018|
