@@ -38,7 +38,7 @@ The 28th International Conference on Computational Linguistics (COLING) will be 
 15. Towards Accurate and Consistent Evaluation: A Dataset for Distantly-Supervised Relation Extraction
 # Event Extraction (EE)
 ### Proceedings of the 28th International Conference on Computational Linguistics
-1. Hierarchical Chinese Legal event extraction via Pedal Attention Mechanism
+1. [Hierarchical Chinese Legal event extraction via Pedal Attention Mechanism](EE/1.%20Hierarchical%20Chinese%20Legal%20event%20extraction%20via%20Pedal%20Attention%20Mechanism.md)
 2. Is Killed More Significant than Fled? A Contextual Model for Salient Event Detection
 3. Joint Event Extraction with Hierarchical Policy Network
 4. Event Coreference Resolution with their Paraphrases and Argument-aware Embeddings
