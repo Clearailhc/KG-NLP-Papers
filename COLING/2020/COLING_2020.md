@@ -43,7 +43,7 @@ The 28th International Conference on Computational Linguistics (COLING) will be 
 3. [Joint Event Extraction with Hierarchical Policy Network](EE/3.%20Joint%20Event%20Extraction%20with%20Hierarchical%20Policy%20Network.md)
 4. [Event Coreference Resolution with their Paraphrases and Argument-aware Embeddings](EE/4.%20Event%20Coreference%20Resolution%20with%20their%20Paraphrases%20and%20Argument-aware%20Embeddings.md)
 5. [Distinguishing Between Foreground and Background Events in News](EE/5.%20Distinguishing%20Between%20Foreground%20and%20Background%20Events%20in%20News.md)
-6. TWEETSUM: Event oriented Social Summarization Dataset
+6. [TWEETSUM: Event oriented Social Summarization Dataset](EE/6.%20TWEETSUM_Event%20oriented%20Social%20Summarization%20Dataset.md)
 7. New Benchmark Corpus and Models for Fine-grained Event Classification: To BERT or not to BERT?
 8. Extracting Fine-Grained Economic Events from Business News
 
