@@ -41,8 +41,8 @@ The 28th International Conference on Computational Linguistics (COLING) will be 
 1. [Hierarchical Chinese Legal event extraction via Pedal Attention Mechanism](EE/1.%20Hierarchical%20Chinese%20Legal%20event%20extraction%20via%20Pedal%20Attention%20Mechanism.md)
 2. [Is Killed More Significant than Fled? A Contextual Model for Salient Event Detection](EE/2.%20Is%20Killed%20More%20Significant%20than%20Fled_A%20Contextual%20Model%20for%20Salient%20Event%20Detection.md)
 3. [Joint Event Extraction with Hierarchical Policy Network](EE/3.%20Joint%20Event%20Extraction%20with%20Hierarchical%20Policy%20Network.md)
-4. Event Coreference Resolution with their Paraphrases and Argument-aware Embeddings
-5. Distinguishing Between Foreground and Background Events in News
+4. [Event Coreference Resolution with their Paraphrases and Argument-aware Embeddings](EE/4.%20Event%20Coreference%20Resolution%20with%20their%20Paraphrases%20and%20Argument-aware%20Embeddings.md)
+5. [Distinguishing Between Foreground and Background Events in News](EE/5.%20Distinguishing%20Between%20Foreground%20and%20Background%20Events%20in%20News.md)
 6. TWEETSUM: Event oriented Social Summarization Dataset
 7. New Benchmark Corpus and Models for Fine-grained Event Classification: To BERT or not to BERT?
 8. Extracting Fine-Grained Economic Events from Business News
