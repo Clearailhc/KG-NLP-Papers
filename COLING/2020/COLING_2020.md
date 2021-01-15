@@ -43,12 +43,19 @@ The 28th International Conference on Computational Linguistics (COLING) will be 
 3. [Joint Event Extraction with Hierarchical Policy Network](EE/3.%20Joint%20Event%20Extraction%20with%20Hierarchical%20Policy%20Network.md)
 4. [Event Coreference Resolution with their Paraphrases and Argument-aware Embeddings](EE/4.%20Event%20Coreference%20Resolution%20with%20their%20Paraphrases%20and%20Argument-aware%20Embeddings.md)
 5. [Distinguishing Between Foreground and Background Events in News](EE/5.%20Distinguishing%20Between%20Foreground%20and%20Background%20Events%20in%20News.md)
+<<<<<<< HEAD
 6. [TWEETSUM: Event oriented Social Summarization Dataset](EE/6.%20TWEETSUM_Event%20oriented%20Social%20Summarization%20Dataset.md)
 7. New Benchmark Corpus and Models for Fine-grained Event Classification: To BERT or not to BERT?
 8. Extracting Fine-Grained Economic Events from Business News
 
+=======
+6. TWEETSUM: Event oriented Social Summarization Dataset
+7. [New Benchmark Corpus and Models for Fine-grained Event Classification: To BERT or not to BERT?](EE/7.%20New%20Benchmark%20Corpus%20and%20Models%20for%20Fine-grained%20Event%20Classification_To%20BERT%20or%20not%20to%20BERT.md)
+### Proceedings of the 1st Joint Workshop on Financial Narrative Processing and MultiLing Financial Summarisation
+8. [Extracting Fine-Grained Economic Events from Business News](EE/8.%20Extracting%20Fine-Grained%20Economic%20Events%20from%20Business%20News.md)
+>>>>>>> 70546706dc789ed9f228b2eeb34f0cee528555be
 ### Proceedings of the Second Workshop on Gender Bias in Natural Language Processing
-9. A Risk Communication Event Detection Model via Contrastive Learning
+9. [A Risk Communication Event Detection Model via Contrastive Learning](EE/9.%20A%20Risk%20Communication%20Event%20Detection%20Model%20via%20Contrastive%20Learning.md)
 ### Proceedings of the Fourteenth Workshop on Semantic Evaluation
-10. SWAGex at SemEval-2020 Task 4: Commonsense Explanation as Next Event Prediction
+10. [SWAGex at SemEval-2020 Task 4: Commonsense Explanation as Next Event Prediction](EE/10.%20SWAGex%20at%20SemEval-2020%20Task%204_Commonsense%20Explanation%20as%20Next%20Event%20Prediction.md)
 # Others
