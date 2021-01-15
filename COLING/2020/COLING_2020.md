@@ -45,8 +45,8 @@ The 28th International Conference on Computational Linguistics (COLING) will be 
 5. [Distinguishing Between Foreground and Background Events in News](EE/5.%20Distinguishing%20Between%20Foreground%20and%20Background%20Events%20in%20News.md)
 6. TWEETSUM: Event oriented Social Summarization Dataset
 7. [New Benchmark Corpus and Models for Fine-grained Event Classification: To BERT or not to BERT?](EE/7.%20New%20Benchmark%20Corpus%20and%20Models%20for%20Fine-grained%20Event%20Classification_To%20BERT%20or%20not%20to%20BERT.md)
-8. Extracting Fine-Grained Economic Events from Business News
-
+### Proceedings of the 1st Joint Workshop on Financial Narrative Processing and MultiLing Financial Summarisation
+8. [Extracting Fine-Grained Economic Events from Business News](EE/8.%20Extracting%20Fine-Grained%20Economic%20Events%20from%20Business%20News.md)
 ### Proceedings of the Second Workshop on Gender Bias in Natural Language Processing
 9. A Risk Communication Event Detection Model via Contrastive Learning
 ### Proceedings of the Fourteenth Workshop on Semantic Evaluation
