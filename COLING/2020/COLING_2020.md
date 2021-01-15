@@ -50,5 +50,5 @@ The 28th International Conference on Computational Linguistics (COLING) will be 
 ### Proceedings of the Second Workshop on Gender Bias in Natural Language Processing
 9. [A Risk Communication Event Detection Model via Contrastive Learning](EE/9.%20A%20Risk%20Communication%20Event%20Detection%20Model%20via%20Contrastive%20Learning.md)
 ### Proceedings of the Fourteenth Workshop on Semantic Evaluation
-10. SWAGex at SemEval-2020 Task 4: Commonsense Explanation as Next Event Prediction
+10. [SWAGex at SemEval-2020 Task 4: Commonsense Explanation as Next Event Prediction](EE/10.%20SWAGex%20at%20SemEval-2020%20Task%204_Commonsense%20Explanation%20as%20Next%20Event%20Prediction.md)
 # Others
