@@ -48,7 +48,7 @@ The 28th International Conference on Computational Linguistics (COLING) will be 
 ### Proceedings of the 1st Joint Workshop on Financial Narrative Processing and MultiLing Financial Summarisation
 8. [Extracting Fine-Grained Economic Events from Business News](EE/8.%20Extracting%20Fine-Grained%20Economic%20Events%20from%20Business%20News.md)
 ### Proceedings of the Second Workshop on Gender Bias in Natural Language Processing
-9. A Risk Communication Event Detection Model via Contrastive Learning
+9. [A Risk Communication Event Detection Model via Contrastive Learning](EE/9.%20A%20Risk%20Communication%20Event%20Detection%20Model%20via%20Contrastive%20Learning.md)
 ### Proceedings of the Fourteenth Workshop on Semantic Evaluation
 10. SWAGex at SemEval-2020 Task 4: Commonsense Explanation as Next Event Prediction
 # Others
